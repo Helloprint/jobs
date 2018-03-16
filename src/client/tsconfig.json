@@ -1,0 +1,18 @@
+{   
+    "compilerOptions": {
+        "watch": true,
+        "noImplicitAny": true,
+        "target": "es5",
+        "module": "es6",
+        "moduleResolution": "classic",  
+        "declaration": false,
+        "sourceMap": false,
+        "strictNullChecks": true,
+        "lib": [
+            "dom",
+            "es5",
+            "es7",
+            "es2015.promise"
+        ]
+    }
+}

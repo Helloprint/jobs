@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="5.18699in" height="5.18698in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 5187 5187"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#FEFEFE}
+    .fil1 {fill:url(#id0)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="-10219" y1="13531" x2="-6552.34" y2="17197.7">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2489BE"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#0575B3"/>
+  </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <ellipse class="fil0" cx="2682" cy="2627" rx="2245" ry="2182"/>
+  <path id="linkedin_1_" class="fil1" d="M2593 0c-1432,0 -2593,1161 -2593,2593 0,1433 1161,2594 2593,2594 1433,0 2594,-1161 2594,-2594 0,-1432 -1161,-2593 -2594,-2593zm-691 3847l-570 0 0 -1839 570 0 0 1839zm-288 -2080c-186,0 -337,-152 -337,-340 0,-187 151,-339 337,-339 186,0 337,152 337,339 0,188 -151,340 -337,340zm2421 2080l-566 0c0,0 0,-700 0,-965 0,-265 -101,-413 -310,-413 -228,0 -347,154 -347,413 0,283 0,965 0,965l-546 0 0 -1839 546 0 0 247c0,0 164,-303 554,-303 390,0 669,238 669,730 0,493 0,1165 0,1165z"/>
+ </g>
+</svg>
